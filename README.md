@@ -25,8 +25,8 @@ Execute robot framework
 
 `% robot <ROBOT_FILE>`
 
-Inspect element by using Appium Inspector.
-https://github.com/appium/appium-inspector
+Inspect element by using [Appium Inspector](https://github.com/appium/appium-inspector).
+
 
 ---
 
