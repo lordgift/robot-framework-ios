@@ -27,3 +27,7 @@ Execute robot framework
 
 Inspect element by using Appium Inspector.
 https://github.com/appium/appium-inspector
+
+---
+
+![ezgif-1-87610c58ec](https://user-images.githubusercontent.com/1191403/220285877-38a3b939-c54d-425c-a2f5-1970a8b62356.gif)
