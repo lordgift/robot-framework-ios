@@ -1,6 +1,13 @@
 # robot-framework-ios
 Play with Appium for automate test.
 
+**Prerequisite** : development tools such as Xcode, Command-line tools.
+
+---
+Install Robot Framework with AppiumLibrary
+
+`% pip3 install robotframework-appiumlibrary`
+
 ---
 Install Appium V2 (beta)
 
