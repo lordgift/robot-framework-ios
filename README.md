@@ -32,9 +32,10 @@ Execute robot framework
 
 `% robot <ROBOT_FILE>`
 
+
 Inspect element by using [Appium Inspector](https://github.com/appium/appium-inspector).
 
 
 ---
 
-![ezgif-1-87610c58ec](https://user-images.githubusercontent.com/1191403/220285877-38a3b939-c54d-425c-a2f5-1970a8b62356.gif)
+![ezgif-1-5919a609f7](https://user-images.githubusercontent.com/1191403/236659149-0729b5a9-d681-4b65-962d-7a72132bacc4.gif)
